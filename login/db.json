@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "name": "ruben",
+      "email": "admin@admin",
+      "password": "admin123",
+      "role": "admin",
+      "id": "9ded"
+    },
+    {
+      "name": "luis",
+      "email": "user@user",
+      "password": "user123",
+      "role": "user",
+      "id": "b4ae"
+    },
+    {
+      "id": "4dcb",
+      "name": "jose ",
+      "email": "jose@jose",
+      "password": "123",
+      "role": "user"
+    },
+    {
+      "id": "8918",
+      "name": "duvan",
+      "email": "duvan@duvan",
+      "password": "1234",
+      "role": "admin"
+    }
+  ],
+  "products": [
+    {
+      "name": "ps6",
+      "price": "1000",
+      "amount": "8",
+      "id": "de29"
+    },
+    {
+      "name": "dog",
+      "price": "9000",
+      "amount": "5",
+      "id": "9515"
+    },
+    {
+      "id": "c7f1",
+      "name": "paracaidas",
+      "price": "2000"
+    },
+    {
+      "id": "2da4",
+      "name": "casco de moto",
+      "price": "500"
+    }
+  ]
+}
